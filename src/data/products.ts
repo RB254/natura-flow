@@ -36,7 +36,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water for 3-5 minutes. Drink 2-3 times daily.",
     price: 1764,
     stock: 120,
-    image: "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=400&h=400&fit=crop",
+    image: "/products/kuding-plus-tea.png",
   },
   {
     id: "p2",
@@ -48,7 +48,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water. Drink twice daily.",
     price: 1890,
     stock: 85,
-    image: "https://images.unsplash.com/photo-1576092762791-dd9e2220cad1?w=400&h=400&fit=crop",
+    image: "/products/breast-care-tea.png",
   },
   {
     id: "p3",
@@ -60,7 +60,7 @@ export const products: Product[] = [
     usage: "Take 1-2 capsules daily.",
     price: 2838,
     stock: 100,
-    image: "https://images.unsplash.com/photo-1594631252845-29fc4cbd8c12?w=400&h=400&fit=crop",
+    image: "/products/cordyceps-plus.png",
   },
   {
     id: "p4",
@@ -72,7 +72,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water for 5 minutes. Drink before bedtime.",
     price: 1638,
     stock: 150,
-    image: "https://images.unsplash.com/photo-1563822249366-3efb23b8e0c9?w=400&h=400&fit=crop",
+    image: "/products/intestine-cleansing-tea.png",
   },
   {
     id: "p5",
@@ -84,7 +84,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water. Drink 2 times daily.",
     price: 1704,
     stock: 90,
-    image: "https://images.unsplash.com/photo-1585435557343-3b348031d0e2?w=400&h=400&fit=crop",
+    image: "/products/balsam-pear-tea.png",
   },
   {
     id: "p6",
@@ -96,7 +96,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water. Drink 1-2 times daily.",
     price: 1686,
     stock: 110,
-    image: "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop",
+    image: "/products/pine-pollen-tea.png",
   },
   {
     id: "p7",
@@ -108,7 +108,7 @@ export const products: Product[] = [
     usage: "Steep 1 tea bag in hot water. Drink 2-3 times daily.",
     price: 1830,
     stock: 200,
-    image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop",
+    image: "/products/jinpure-tea.png",
   },
   {
     id: "p8",
@@ -120,7 +120,7 @@ export const products: Product[] = [
     usage: "Take 1-2 capsules daily in the morning.",
     price: 4914,
     stock: 60,
-    image: "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop",
+    image: "/products/ginseng-rhs.png",
   },
   {
     id: "p9",
@@ -132,7 +132,7 @@ export const products: Product[] = [
     usage: "Take 1-2 capsules daily with warm water.",
     price: 3276,
     stock: 75,
-    image: "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=400&h=400&fit=crop",
+    image: "/products/ganoderma-plus.png",
   },
   {
     id: "p10",
@@ -144,7 +144,7 @@ export const products: Product[] = [
     usage: "Take 1-2 capsules daily.",
     price: 2772,
     stock: 85,
-    image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=400&h=400&fit=crop",
+    image: "/products/soy-power.png",
   },
   {
     id: "p11",
@@ -156,7 +156,7 @@ export const products: Product[] = [
     usage: "Take 1-2 softgels daily with meals.",
     price: 3756,
     stock: 130,
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&h=400&fit=crop",
+    image: "/products/deep-sea-fish-oil.png",
   },
   {
     id: "p12",

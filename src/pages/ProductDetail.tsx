@@ -26,8 +26,8 @@ const ProductDetail = () => {
       </Link>
 
       <div className="grid gap-8 md:grid-cols-2">
-        <div className="overflow-hidden rounded-xl border">
-          <img src={product.image} alt={product.name} className="h-full w-full object-cover" />
+        <div className="overflow-hidden rounded-xl border bg-muted flex items-center justify-center p-4">
+          <img src={product.image} alt={product.name} className="h-full w-full object-contain aspect-video" />
         </div>
 
         <div>

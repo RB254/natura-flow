@@ -10,11 +10,11 @@ export const ProductCard = ({ product }: { product: Product }) => {
   return (
     <div className="group overflow-hidden rounded-xl border bg-card shadow-card transition-all hover:shadow-elevated">
       <Link to={`/product/${product.id}`}>
-        <div className="aspect-square overflow-hidden">
+        <div className="aspect-square overflow-hidden bg-muted flex items-center justify-center p-4">
           <img
             src={product.image}
             alt={product.name}
-            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+            className="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
           />
         </div>
       </Link>
