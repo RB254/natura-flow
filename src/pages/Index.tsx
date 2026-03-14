@@ -20,14 +20,14 @@ const heroSlides = [
     subtitle: "Trusted nutraceutical solutions for your health journey",
   },
   {
-    image: "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=1920&q=80",
+    image: "/products/slide_4.png",
     title: "Nutraceutical Science Meets Nature",
     subtitle: "Traditional Chinese Medicine principles combined with modern research",
   },
   {
-    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1920&q=80",
+    image: "/products/slide_10.png",
     title: "Supporting Healthy Living Globally",
-    subtitle: "From Kenya to the world — natural health for every community",
+    subtitle: "Premium organic fertilizer for sustainable farming and higher yields",
   },
 ];
 
@@ -155,7 +155,7 @@ const Index = () => {
               </Link>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-xl">
-              <img src="https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&h=400&fit=crop" alt="Green World nutraceutical products" className="w-full h-auto object-cover" />
+              <img src="/products/slide_1.png" alt="Green World International" className="w-full h-auto object-cover" />
             </div>
           </div>
         </div>

@@ -40,7 +40,8 @@ const farmerTestimonials = [
 ];
 
 const Fertilizer = () => {
-  const neutricPlant = products.find((p) => p.id === "p10");
+  const neutricPlant = products.find((p) => p.id === "p13");
+  const certificateImage = "/products/Neutrica fertilizer licence or certificate.png";
   const { addItem } = useCart();
 
   const handleAddToCart = () => {
@@ -143,6 +144,38 @@ const Fertilizer = () => {
                 <p className="text-sm text-muted-foreground">{b.desc}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Certification & Legitimacy */}
+      <section className="bg-muted py-16">
+        <div className="container mx-auto px-4">
+          <div className="grid items-center gap-10 md:grid-cols-2">
+            <div className="rounded-2xl overflow-hidden shadow-xl border bg-card p-2">
+              <img
+                src={certificateImage}
+                alt="NutriPlant Fertilizer Licence/Certificate"
+                className="h-auto w-full object-contain"
+              />
+            </div>
+            <div>
+              <h2 className="mb-4 font-display text-3xl font-bold text-foreground">Legitimacy & Certification</h2>
+              <p className="mb-4 text-muted-foreground leading-relaxed">
+                NutriPlant Organic Plus Fertilizer is fully licensed and approved by the <strong>Kenya Plant Health Inspectorate Service (KEPHIS)</strong> for commercialization in Kenya.
+              </p>
+              <p className="mb-6 text-muted-foreground leading-relaxed">
+                Our certificate confirms that our product meets all national standards for legumes, maize, and solanacea, ensuring safety and efficacy for Kenyan farmers.
+              </p>
+              <div className="flex items-center gap-3 text-primary font-medium">
+                <CheckCircle className="h-5 w-5" />
+                <span>KEPHIS Approved</span>
+              </div>
+              <div className="mt-2 flex items-center gap-3 text-primary font-medium">
+                <CheckCircle className="h-5 w-5" />
+                <span>Ministry of Agriculture Certified</span>
+              </div>
+            </div>
           </div>
         </div>
       </section>

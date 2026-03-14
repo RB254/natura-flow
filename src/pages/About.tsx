@@ -3,12 +3,12 @@ import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 
 const certifications = [
-  { name: "Kenya Bureau of Standards (KEBS) Certificate", type: "Product Certification" },
-  { name: "Pharmacy and Poisons Board License", type: "Operating License" },
-  { name: "National Environment Management Authority (NEMA) Approval", type: "Environmental Compliance" },
-  { name: "World Health Organization (WHO) GMP Certification", type: "Manufacturing Standard" },
-  { name: "ISO 9001:2015 Quality Management", type: "Quality Certification" },
-  { name: "Green World International Product Registration", type: "Global Registration" },
+  { name: "KEPHIS Fertilizer Commercialization Permit", type: "Agricultural Certification", image: "/products/Neutrica fertilizer licence or certificate.png" },
+  { name: "Kenya Bureau of Standards (KEBS) Certificate", type: "Product Certification", image: "/placeholder.svg" },
+  { name: "Pharmacy and Poisons Board License", type: "Operating License", image: "/placeholder.svg" },
+  { name: "National Environment Management Authority (NEMA) Approval", type: "Environmental Compliance", image: "/placeholder.svg" },
+  { name: "World Health Organization (WHO) GMP Certification", type: "Manufacturing Standard", image: "/placeholder.svg" },
+  { name: "ISO 9001:2015 Quality Management", type: "Quality Certification", image: "/placeholder.svg" },
 ];
 
 const milestones = [
@@ -166,7 +166,7 @@ const About = () => (
             <div key={i} className="flex flex-col overflow-hidden rounded-xl border bg-card shadow-card group">
               <div className="aspect-[4/3] w-full bg-muted overflow-hidden">
                 <img 
-                  src="/placeholder.svg" 
+                  src={cert.image} 
                   alt={cert.name} 
                   className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105" 
                 />
