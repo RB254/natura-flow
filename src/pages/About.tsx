@@ -3,12 +3,12 @@ import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 
 const certifications = [
+  { name: "FDA Certificate of Registration", type: "Global Health Standard", image: "/certificates/certificate_97.png" },
+  { name: "United States Trademark: GREEN WORLD", type: "Brand Protection", image: "/certificates/certificate_100.png" },
+  { name: "HACCP System Certification", type: "Food Safety Standard", image: "/certificates/certificate_103.png" },
+  { name: "Halal Product Certificate", type: "Dietary Compliance", image: "/certificates/certificate_104.png" },
+  { name: "ISO 9001:2015 Quality Management", type: "Quality Standard", image: "/certificates/certificate_105.png" },
   { name: "KEPHIS Fertilizer Commercialization Permit", type: "Agricultural Certification", image: "/products/Neutrica fertilizer licence or certificate.png" },
-  { name: "Kenya Bureau of Standards (KEBS) Certificate", type: "Product Certification", image: "/placeholder.svg" },
-  { name: "Pharmacy and Poisons Board License", type: "Operating License", image: "/placeholder.svg" },
-  { name: "National Environment Management Authority (NEMA) Approval", type: "Environmental Compliance", image: "/placeholder.svg" },
-  { name: "World Health Organization (WHO) GMP Certification", type: "Manufacturing Standard", image: "/placeholder.svg" },
-  { name: "ISO 9001:2015 Quality Management", type: "Quality Certification", image: "/placeholder.svg" },
 ];
 
 const milestones = [

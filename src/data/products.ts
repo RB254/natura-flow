@@ -41,7 +41,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-3 sachet(s) each day",
-    "price": 1566,
+    "price": 4920,
     "stock": 100,
     "image": "/products/slide_2.png",
     "isFarm": false
@@ -61,7 +61,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 4139,
+    "price": 4610,
     "stock": 100,
     "image": "/products/slide_3.png",
     "isFarm": false
@@ -81,7 +81,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1948,
+    "price": 1600,
     "stock": 100,
     "image": "/products/slide_22.png",
     "isFarm": false
@@ -101,7 +101,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 3351,
+    "price": 2915,
     "stock": 100,
     "image": "/products/slide_5.png",
     "isFarm": false
@@ -109,8 +109,8 @@ export const products: Product[] = [
   {
     "id": "p5",
     "name": "Balsam Pear Tea",
-    "category": "Blood Circulation",
-    "description": "A - .) nN A",
+    "category": "Nutraceutical Medicines",
+    "description": "Contains plant insulin that helps regulate blood sugar levels and supports healthy glucose metabolism.",
     "benefits": [
       "1. Contain plant insulin that reduces blood sugar levels",
       "il g 2. Increase insulin receptors respond to such hormone",
@@ -120,7 +120,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4496,
+    "price": 4258,
     "stock": 100,
     "image": "/products/slide_6.png",
     "isFarm": false
@@ -129,7 +129,7 @@ export const products: Product[] = [
     "id": "p6",
     "name": "Pine Pollen Tea",
     "category": "Energy Products",
-    "description": "wEray - gS NS N - ) NGS",
+    "description": "A nutrient-rich herbal tea that enhances stamina and supports hormonal balance for both men and women.",
     "benefits": [
       "13 TA 1.Improve immunity  for people with compromised",
       "7 immunity and chronic fatigue",
@@ -140,7 +140,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 4405,
+    "price": 4336,
     "stock": 100,
     "image": "/products/slide_7.png",
     "isFarm": false
@@ -149,7 +149,7 @@ export const products: Product[] = [
     "id": "p7",
     "name": "Jinpure Tea",
     "category": "Immune Boosters",
-    "description": "Vs 2 A W - I _ Ses EE NS N - A - ) nN",
+    "description": "Clears pathogenic heat and supports upper respiratory health, perfect for flu prevention.",
     "benefits": [
       "op Tr x  1. Init viral and bacterial replication in the uppet",
       "ol rs respiratory system",
@@ -161,7 +161,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4177,
+    "price": 1856,
     "stock": 100,
     "image": "/products/slide_10.png",
     "isFarm": false
@@ -170,7 +170,7 @@ export const products: Product[] = [
     "id": "p8",
     "name": "Ginseng RHs Capsule",
     "category": "Energy Products",
-    "description": "Advanced health formulation based on traditional knowledge.",
+    "description": "Advanced health formulation that promotes vitality and supports immune system recovery.",
     "benefits": [
       "natural remedy that can be used in adjunction with anti-cancer",
       "in medications",
@@ -182,7 +182,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4112,
+    "price": 3536,
     "stock": 100,
     "image": "/products/slide_29.png",
     "isFarm": false
@@ -191,7 +191,7 @@ export const products: Product[] = [
     "id": "p9",
     "name": "Ganoderma Plus Capsule",
     "category": "Nutraceutical Medicines",
-    "description": "No",
+    "description": "Specifically formulated to regulate immunity and reduce side effects of systemic intensive treatments.",
     "benefits": [
       "Regulates immunity",
       "2.Reduces adverse effect caused by chemotherapy and radiotherapy",
@@ -203,7 +203,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2865,
+    "price": 4937,
     "stock": 100,
     "image": "/products/slide_24.png",
     "isFarm": false
@@ -212,7 +212,7 @@ export const products: Product[] = [
     "id": "p10",
     "name": "Soy Power Capsule",
     "category": "Women's Health",
-    "description": "_ JSTOR . AA",
+    "description": "Supports endocrine health and bone density for women, promoting long-term cardiovascular wellness.",
     "benefits": [
       "Prevent the decline of ovarys function",
       "Reduce the loss of bone density,prevent osteoporosis",
@@ -224,7 +224,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4989,
+    "price": 2748,
     "stock": 100,
     "image": "/products/slide_30.png",
     "isFarm": false
@@ -233,7 +233,7 @@ export const products: Product[] = [
     "id": "p11",
     "name": "Deep Sea Fish Oil Softgel",
     "category": "Blood Circulation",
-    "description": "Vs ) GREEN WORLD - 4",
+    "description": "Rich source of EPA and DHA that supports brain function and healthy blood lipid levels.",
     "benefits": [
       "Provides EPA and DHA, the two major omega-3 fatty",
       "3 acids, polyunsaturated fatty acids and vitamin E",
@@ -245,7 +245,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4466,
+    "price": 4648,
     "stock": 100,
     "image": "/products/slide_39.png",
     "isFarm": false
@@ -253,8 +253,8 @@ export const products: Product[] = [
   {
     "id": "p12",
     "name": "Calcium Tablet (For Adults)",
-    "category": "Children's Health",
-    "description": "WW A Ns CE",
+    "category": "Nutraceutical Medicines",
+    "description": "Essential calcium supplement to strengthen bones and prevent deficiency in adults.",
     "benefits": [
       "Prevents calcium deficiency",
       "2.Strengthens the bones and prevents bone disease"
@@ -263,7 +263,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1850,
+    "price": 1987,
     "stock": 100,
     "image": "/products/slide_32.png",
     "isFarm": false
@@ -280,7 +280,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3839,
+    "price": 4823,
     "stock": 100,
     "image": "/products/NeutricPlant Organic Fertilizer.png",
     "isFarm": true
@@ -298,7 +298,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 3922,
+    "price": 4699,
     "stock": 100,
     "image": "/products/slide_11.png",
     "isFarm": false
@@ -319,7 +319,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 4920,
+    "price": 3753,
     "stock": 100,
     "image": "/products/slide_12.png",
     "isFarm": false
@@ -339,15 +339,15 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1776,
+    "price": 4347,
     "stock": 100,
     "image": "/products/slide_13.png",
     "isFarm": false
   },
   {
     "id": "p17",
-    "name": "Intestinal Health & Immune Defense",
-    "category": "Digestive Health",
+    "name": "Oo - A 4 Builds the 1st line immune defense gut",
+    "category": "Nutraceutical Medicines",
     "description": "Moisturizes intestinal wall and improves intesti 4 and cerebrovascular diseases, diabetes -",
     "benefits": [
       "Moisturizes intestinal wall and improves intesti p",
@@ -358,14 +358,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3248,
+    "price": 4967,
     "stock": 100,
     "image": "/products/slide_14.png",
     "isFarm": false
   },
   {
     "id": "p18",
-    "name": "Longevity & Anti-Aging Capsule",
+    "name": "P77 5Promotes longevity",
     "category": "Nutraceutical Medicines",
     "description": "Enhances immunity and combats cancer cell proliferates 2 protectthe cellular components against oxidative damage",
     "benefits": [
@@ -378,14 +378,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3207,
+    "price": 4130,
     "stock": 100,
     "image": "/products/slide_15.png",
     "isFarm": false
   },
   {
     "id": "p19",
-    "name": "Actiberry Anti-Inflammatory Drink",
+    "name": "Actiberry Anti-Inflammatory",
     "category": "Nutraceutical Medicines",
     "description": "marm 2 Antioxidant Se . . ACTIBERRY 3TAnti-inflammatory",
     "benefits": [
@@ -398,7 +398,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 3782,
+    "price": 2205,
     "stock": 100,
     "image": "/products/slide_16.png",
     "isFarm": false
@@ -418,14 +418,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2356,
+    "price": 2081,
     "stock": 100,
     "image": "/products/slide_17.png",
     "isFarm": false
   },
   {
     "id": "p21",
-    "name": "yoghourt breakfast cereal. Take 1-2 bags day.",
+    "name": "Green World Super Nutrition",
     "category": "Nutraceutical Medicines",
     "description": "1. Green World Super Nutrition provides cocktail nut such antioxidants, proteins, carbohydrates, vitam",
     "benefits": [
@@ -439,14 +439,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2086,
+    "price": 3243,
     "stock": 100,
     "image": "/products/slide_18.png",
     "isFarm": false
   },
   {
     "id": "p22",
-    "name": "Fry . . .",
+    "name": "Blueberry Breuvage",
     "category": "Nutraceutical Medicines",
     "description": "1. A well-blended berry cocktail the most powerful natura oF N antioxidant against diseases induced oxidative dama,",
     "benefits": [
@@ -459,15 +459,15 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2877,
+    "price": 3279,
     "stock": 100,
     "image": "/products/slide_19.png",
     "isFarm": false
   },
   {
     "id": "p23",
-    "name": "Bleuet Minceur .",
-    "category": "Nutraceutical Medicines",
+    "name": "Bleuet Minceur (Slimming)",
+    "category": "Weight Management",
     "description": "Ze 1.Slow the emptying stomach give sense fullness ing 2.A meal replacement reducing the calories intake",
     "benefits": [
       "Ze as 1.Slow the emptying of stomach  give sense of fullness",
@@ -479,14 +479,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 4618,
+    "price": 2597,
     "stock": 100,
     "image": "/products/slide_20.png",
     "isFarm": false
   },
   {
     "id": "p24",
-    "name": "Protein Powder 1-2 tablespoons each time, 1-2 times day",
+    "name": "Protein Powder",
     "category": "Nutraceutical Medicines",
     "description": "Provides 9 essential amino acids human body 2. Free cholesterol, hormones, and antibodies, which are",
     "benefits": [
@@ -499,7 +499,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2131,
+    "price": 2691,
     "stock": 100,
     "image": "/products/slide_21.png",
     "isFarm": false
@@ -517,7 +517,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4217,
+    "price": 4841,
     "stock": 100,
     "image": "/products/slide_23.png",
     "isFarm": false
@@ -537,7 +537,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2801,
+    "price": 3792,
     "stock": 100,
     "image": "/products/slide_25.png",
     "isFarm": false
@@ -557,7 +557,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3209,
+    "price": 3176,
     "stock": 100,
     "image": "/products/slide_26.png",
     "isFarm": false
@@ -576,7 +576,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1968,
+    "price": 2743,
     "stock": 100,
     "image": "/products/slide_27.png",
     "isFarm": false
@@ -596,7 +596,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2794,
+    "price": 2797,
     "stock": 100,
     "image": "/products/slide_28.png",
     "isFarm": false
@@ -617,14 +617,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2695,
+    "price": 4241,
     "stock": 100,
     "image": "/products/slide_31.png",
     "isFarm": false
   },
   {
     "id": "p31",
-    "name": "Z 32,3 3. A powerful antioxidant",
+    "name": "Zinc Tablet (For Adults)",
     "category": "Nutraceutical Medicines",
     "description": "Prevents zinc-deficiency 2. An essential trace element involved hundreds chemical",
     "benefits": [
@@ -638,15 +638,15 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4669,
+    "price": 4607,
     "stock": 100,
     "image": "/products/slide_33.png",
     "isFarm": false
   },
   {
     "id": "p32",
-    "name": "Multi-Vitamins Tablet For peiday",
-    "category": "Weight Management",
+    "name": "Multi-Vitamins Tablet",
+    "category": "Nutraceutical Medicines",
     "description": "Supplements the body with fat soluble vitamins (A,D, E and K) and water soluble vitamins (B Complex and C).",
     "benefits": [
       "Supplements the body with fat soluble vitamins A,D,",
@@ -657,7 +657,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1593,
+    "price": 2514,
     "stock": 100,
     "image": "/products/slide_34.png",
     "isFarm": false
@@ -677,14 +677,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3970,
+    "price": 1784,
     "stock": 100,
     "image": "/products/slide_35.png",
     "isFarm": false
   },
   {
     "id": "p34",
-    "name": "CAL diseases",
+    "name": "Garlic Oil Softgel",
     "category": "Nutraceutical Medicines",
     "description": "It has anti-microbial properties, thus inhibiting the growth 2. An antioxidant that neutralizes the free radicals",
     "benefits": [
@@ -698,15 +698,15 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4085,
+    "price": 4378,
     "stock": 100,
     "image": "/products/slide_36.png",
     "isFarm": false
   },
   {
     "id": "p35",
-    "name": "Chitosan Capsule For those with cancers",
-    "category": "Nutraceutical Medicines",
+    "name": "Chitosan Capsule",
+    "category": "Weight Management",
     "description": "Reduces blood lipid level, helps weight loss 2. Reduces blood sugar level",
     "benefits": [
       "Reduces blood lipid level, helps weight loss",
@@ -718,14 +718,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4580,
+    "price": 2826,
     "stock": 100,
     "image": "/products/slide_37.png",
     "isFarm": false
   },
   {
     "id": "p36",
-    "name": "2 5 4 Protects liver and enhances liver function",
+    "name": "Lecithin Softgel",
     "category": "Nutraceutical Medicines",
     "description": "An essential constituent for cell membranes 2. Strengthens the nerve system and nourishes the brain",
     "benefits": [
@@ -738,14 +738,14 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3156,
+    "price": 2748,
     "stock": 100,
     "image": "/products/slide_38.png",
     "isFarm": false
   },
   {
     "id": "p37",
-    "name": "Improve respiratory functions",
+    "name": "Compound Marrow Powder",
     "category": "Nutraceutical Medicines",
     "description": "nN - 1. Help expel the harmful substances toge SN his - 3 spugym from the lungs - -",
     "benefits": [
@@ -758,15 +758,15 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 2827,
+    "price": 4036,
     "stock": 100,
     "image": "/products/slide_4.png",
     "isFarm": false
   },
   {
     "id": "p38",
-    "name": "Ginkgo Biloba Capsule For preventi",
-    "category": "Nutraceutical Medicines",
+    "name": "Ginkgo Biloba Capsule",
+    "category": "Blood Circulation",
     "description": "Scavenges free radicals and counteracts age-related damages 2. Increases oxygen supply brain tissue thus enhancing memory",
     "benefits": [
       "Scavenges free radicals and counteracts age-related damages",
@@ -778,7 +778,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1576,
+    "price": 3455,
     "stock": 100,
     "image": "/products/slide_40.png",
     "isFarm": false
@@ -797,7 +797,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4112,
+    "price": 4703,
     "stock": 100,
     "image": "/products/slide_41.png",
     "isFarm": false
@@ -818,7 +818,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2663,
+    "price": 3836,
     "stock": 100,
     "image": "/products/slide_42.png",
     "isFarm": false
@@ -836,7 +836,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4868,
+    "price": 3441,
     "stock": 100,
     "image": "/products/slide_43.png",
     "isFarm": false
@@ -855,7 +855,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3601,
+    "price": 1864,
     "stock": 100,
     "image": "/products/slide_44.png",
     "isFarm": false
@@ -875,7 +875,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4888,
+    "price": 4581,
     "stock": 100,
     "image": "/products/slide_45.png",
     "isFarm": false
@@ -896,7 +896,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2560,
+    "price": 3255,
     "stock": 100,
     "image": "/products/slide_46.png",
     "isFarm": false
@@ -914,7 +914,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3658,
+    "price": 3786,
     "stock": 100,
     "image": "/products/slide_47.png",
     "isFarm": false
@@ -932,7 +932,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3161,
+    "price": 4606,
     "stock": 100,
     "image": "/products/slide_48.png",
     "isFarm": false
@@ -953,7 +953,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2640,
+    "price": 3679,
     "stock": 100,
     "image": "/products/slide_49.png",
     "isFarm": false
@@ -973,7 +973,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2816,
+    "price": 4510,
     "stock": 100,
     "image": "/products/slide_50.png",
     "isFarm": false
@@ -993,7 +993,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3742,
+    "price": 3482,
     "stock": 100,
     "image": "/products/slide_51.png",
     "isFarm": false
@@ -1013,7 +1013,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3758,
+    "price": 3022,
     "stock": 100,
     "image": "/products/slide_52.png",
     "isFarm": false
@@ -1034,7 +1034,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3445,
+    "price": 2510,
     "stock": 100,
     "image": "/products/slide_53.png",
     "isFarm": false
@@ -1054,7 +1054,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3577,
+    "price": 2105,
     "stock": 100,
     "image": "/products/slide_54.png",
     "isFarm": false
@@ -1075,7 +1075,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1669,
+    "price": 4848,
     "stock": 100,
     "image": "/products/slide_55.png",
     "isFarm": false
@@ -1095,7 +1095,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3341,
+    "price": 3657,
     "stock": 100,
     "image": "/products/slide_56.png",
     "isFarm": false
@@ -1115,7 +1115,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4526,
+    "price": 1705,
     "stock": 100,
     "image": "/products/slide_57.png",
     "isFarm": false
@@ -1134,7 +1134,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1722,
+    "price": 2669,
     "stock": 100,
     "image": "/products/slide_58.png",
     "isFarm": false
@@ -1153,7 +1153,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4832,
+    "price": 4010,
     "stock": 100,
     "image": "/products/slide_59.png",
     "isFarm": false
@@ -1173,7 +1173,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1781,
+    "price": 1830,
     "stock": 100,
     "image": "/products/slide_60.png",
     "isFarm": false
@@ -1192,7 +1192,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3190,
+    "price": 1574,
     "stock": 100,
     "image": "/products/slide_61.png",
     "isFarm": false
@@ -1213,7 +1213,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4761,
+    "price": 1656,
     "stock": 100,
     "image": "/products/slide_62.png",
     "isFarm": false
@@ -1234,7 +1234,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1633,
+    "price": 1922,
     "stock": 100,
     "image": "/products/slide_63.png",
     "isFarm": false
@@ -1255,7 +1255,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4783,
+    "price": 1806,
     "stock": 100,
     "image": "/products/slide_64.png",
     "isFarm": false
@@ -1276,7 +1276,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2027,
+    "price": 2929,
     "stock": 100,
     "image": "/products/slide_65.png",
     "isFarm": false
@@ -1297,7 +1297,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4817,
+    "price": 4553,
     "stock": 100,
     "image": "/products/slide_66.png",
     "isFarm": false
@@ -1318,7 +1318,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4901,
+    "price": 4737,
     "stock": 100,
     "image": "/products/slide_67.png",
     "isFarm": false
@@ -1336,7 +1336,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2485,
+    "price": 2215,
     "stock": 100,
     "image": "/products/slide_68.png",
     "isFarm": false
@@ -1356,7 +1356,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 1805,
+    "price": 4824,
     "stock": 100,
     "image": "/products/slide_69.png",
     "isFarm": false
@@ -1376,7 +1376,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4612,
+    "price": 3263,
     "stock": 100,
     "image": "/products/slide_70.png",
     "isFarm": false
@@ -1395,7 +1395,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 3837,
+    "price": 2221,
     "stock": 100,
     "image": "/products/slide_71.png",
     "isFarm": false
@@ -1413,7 +1413,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 2006,
+    "price": 3444,
     "stock": 100,
     "image": "/products/slide_72.png",
     "isFarm": false
@@ -1432,7 +1432,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachet(s) each day",
-    "price": 3234,
+    "price": 4440,
     "stock": 100,
     "image": "/products/slide_8.png",
     "isFarm": false
@@ -1451,7 +1451,7 @@ export const products: Product[] = [
       "Natural Herbal Extract"
     ],
     "usage": "1-2 sachets daily",
-    "price": 4319,
+    "price": 2737,
     "stock": 100,
     "image": "/products/slide_9.png",
     "isFarm": false
