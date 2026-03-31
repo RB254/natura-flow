@@ -43,7 +43,7 @@ export const products: Product[] = [
     "usage": "1-3 sachet(s) each day",
     "price": 4920,
     "stock": 100,
-    "image": "/products/slide_2.png",
+    "image": "/productclean/slide_2.png",
     "isFarm": false
   },
   {
@@ -63,7 +63,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 4610,
     "stock": 100,
-    "image": "/products/slide_3.png",
+    "image": "/productclean/slide_3.png",
     "isFarm": false
   },
   {
@@ -83,7 +83,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1600,
     "stock": 100,
-    "image": "/products/slide_22.png",
+    "image": "/productclean/slide_22.png",
     "isFarm": false
   },
   {
@@ -103,7 +103,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 2915,
     "stock": 100,
-    "image": "/products/slide_5.png",
+    "image": "/productclean/slide_5.png",
     "isFarm": false
   },
   {
@@ -122,7 +122,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4258,
     "stock": 100,
-    "image": "/products/slide_6.png",
+    "image": "/productclean/slide_6.png",
     "isFarm": false
   },
   {
@@ -142,7 +142,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 4336,
     "stock": 100,
-    "image": "/products/slide_7.png",
+    "image": "/productclean/slide_7.png",
     "isFarm": false
   },
   {
@@ -163,7 +163,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1856,
     "stock": 100,
-    "image": "/products/slide_10.png",
+    "image": "/productclean/slide_10.png",
     "isFarm": false
   },
   {
@@ -184,7 +184,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3536,
     "stock": 100,
-    "image": "/products/slide_29.png",
+    "image": "/productclean/slide_29.png",
     "isFarm": false
   },
   {
@@ -205,7 +205,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4937,
     "stock": 100,
-    "image": "/products/slide_24.png",
+    "image": "/productclean/slide_24.png",
     "isFarm": false
   },
   {
@@ -226,7 +226,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2748,
     "stock": 100,
-    "image": "/products/slide_30.png",
+    "image": "/productclean/slide_30.png",
     "isFarm": false
   },
   {
@@ -247,7 +247,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4648,
     "stock": 100,
-    "image": "/products/slide_39.png",
+    "image": "/productclean/slide_39.png",
     "isFarm": false
   },
   {
@@ -265,7 +265,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1987,
     "stock": 100,
-    "image": "/products/slide_32.png",
+    "image": "/productclean/slide_32.png",
     "isFarm": false
   },
   {
@@ -282,7 +282,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4823,
     "stock": 100,
-    "image": "/products/NeutricPlant Organic Fertilizer.png",
+    "image": "/productclean/NeutricPlant Organic Fertilizer.png",
     "isFarm": true
   },
   {
@@ -300,7 +300,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 4699,
     "stock": 100,
-    "image": "/products/slide_11.png",
+    "image": "/productclean/slide_11.png",
     "isFarm": false
   },
   {
@@ -321,7 +321,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 3753,
     "stock": 100,
-    "image": "/products/slide_12.png",
+    "image": "/productclean/slide_12.png",
     "isFarm": false
   },
   {
@@ -341,7 +341,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4347,
     "stock": 100,
-    "image": "/products/slide_13.png",
+    "image": "/productclean/slide_13.png",
     "isFarm": false
   },
   {
@@ -360,7 +360,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4967,
     "stock": 100,
-    "image": "/products/slide_14.png",
+    "image": "/productclean/slide_14.png",
     "isFarm": false
   },
   {
@@ -380,7 +380,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4130,
     "stock": 100,
-    "image": "/products/slide_15.png",
+    "image": "/productclean/slide_15.png",
     "isFarm": false
   },
   {
@@ -400,7 +400,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 2205,
     "stock": 100,
-    "image": "/products/slide_16.png",
+    "image": "/productclean/slide_16.png",
     "isFarm": false
   },
   {
@@ -420,7 +420,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2081,
     "stock": 100,
-    "image": "/products/slide_17.png",
+    "image": "/productclean/slide_17.png",
     "isFarm": false
   },
   {
@@ -441,7 +441,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3243,
     "stock": 100,
-    "image": "/products/slide_18.png",
+    "image": "/productclean/slide_18.png",
     "isFarm": false
   },
   {
@@ -461,7 +461,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3279,
     "stock": 100,
-    "image": "/products/slide_19.png",
+    "image": "/productclean/slide_19.png",
     "isFarm": false
   },
   {
@@ -481,7 +481,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 2597,
     "stock": 100,
-    "image": "/products/slide_20.png",
+    "image": "/productclean/slide_20.png",
     "isFarm": false
   },
   {
@@ -501,7 +501,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2691,
     "stock": 100,
-    "image": "/products/slide_21.png",
+    "image": "/productclean/slide_21.png",
     "isFarm": false
   },
   {
@@ -519,7 +519,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4841,
     "stock": 100,
-    "image": "/products/slide_23.png",
+    "image": "/productclean/slide_23.png",
     "isFarm": false
   },
   {
@@ -539,7 +539,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3792,
     "stock": 100,
-    "image": "/products/slide_25.png",
+    "image": "/productclean/slide_25.png",
     "isFarm": false
   },
   {
@@ -559,7 +559,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3176,
     "stock": 100,
-    "image": "/products/slide_26.png",
+    "image": "/productclean/slide_26.png",
     "isFarm": false
   },
   {
@@ -578,7 +578,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2743,
     "stock": 100,
-    "image": "/products/slide_27.png",
+    "image": "/productclean/slide_27.png",
     "isFarm": false
   },
   {
@@ -598,7 +598,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2797,
     "stock": 100,
-    "image": "/products/slide_28.png",
+    "image": "/productclean/slide_28.png",
     "isFarm": false
   },
   {
@@ -619,7 +619,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4241,
     "stock": 100,
-    "image": "/products/slide_31.png",
+    "image": "/productclean/slide_31.png",
     "isFarm": false
   },
   {
@@ -640,7 +640,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4607,
     "stock": 100,
-    "image": "/products/slide_33.png",
+    "image": "/productclean/slide_33.png",
     "isFarm": false
   },
   {
@@ -659,7 +659,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2514,
     "stock": 100,
-    "image": "/products/slide_34.png",
+    "image": "/productclean/slide_34.png",
     "isFarm": false
   },
   {
@@ -679,7 +679,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1784,
     "stock": 100,
-    "image": "/products/slide_35.png",
+    "image": "/productclean/slide_35.png",
     "isFarm": false
   },
   {
@@ -700,7 +700,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4378,
     "stock": 100,
-    "image": "/products/slide_36.png",
+    "image": "/productclean/slide_36.png",
     "isFarm": false
   },
   {
@@ -720,7 +720,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2826,
     "stock": 100,
-    "image": "/products/slide_37.png",
+    "image": "/productclean/slide_37.png",
     "isFarm": false
   },
   {
@@ -740,7 +740,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2748,
     "stock": 100,
-    "image": "/products/slide_38.png",
+    "image": "/productclean/slide_38.png",
     "isFarm": false
   },
   {
@@ -760,7 +760,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 4036,
     "stock": 100,
-    "image": "/products/slide_4.png",
+    "image": "/productclean/slide_4.png",
     "isFarm": false
   },
   {
@@ -780,7 +780,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3455,
     "stock": 100,
-    "image": "/products/slide_40.png",
+    "image": "/productclean/slide_40.png",
     "isFarm": false
   },
   {
@@ -799,7 +799,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4703,
     "stock": 100,
-    "image": "/products/slide_41.png",
+    "image": "/productclean/slide_41.png",
     "isFarm": false
   },
   {
@@ -820,7 +820,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3836,
     "stock": 100,
-    "image": "/products/slide_42.png",
+    "image": "/productclean/slide_42.png",
     "isFarm": false
   },
   {
@@ -838,7 +838,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3441,
     "stock": 100,
-    "image": "/products/slide_43.png",
+    "image": "/productclean/slide_43.png",
     "isFarm": false
   },
   {
@@ -857,7 +857,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1864,
     "stock": 100,
-    "image": "/products/slide_44.png",
+    "image": "/productclean/slide_44.png",
     "isFarm": false
   },
   {
@@ -877,7 +877,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4581,
     "stock": 100,
-    "image": "/products/slide_45.png",
+    "image": "/productclean/slide_45.png",
     "isFarm": false
   },
   {
@@ -898,7 +898,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3255,
     "stock": 100,
-    "image": "/products/slide_46.png",
+    "image": "/productclean/slide_46.png",
     "isFarm": false
   },
   {
@@ -916,7 +916,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3786,
     "stock": 100,
-    "image": "/products/slide_47.png",
+    "image": "/productclean/slide_47.png",
     "isFarm": false
   },
   {
@@ -934,7 +934,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4606,
     "stock": 100,
-    "image": "/products/slide_48.png",
+    "image": "/productclean/slide_48.png",
     "isFarm": false
   },
   {
@@ -955,7 +955,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3679,
     "stock": 100,
-    "image": "/products/slide_49.png",
+    "image": "/productclean/slide_49.png",
     "isFarm": false
   },
   {
@@ -975,7 +975,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4510,
     "stock": 100,
-    "image": "/products/slide_50.png",
+    "image": "/productclean/slide_50.png",
     "isFarm": false
   },
   {
@@ -995,7 +995,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3482,
     "stock": 100,
-    "image": "/products/slide_51.png",
+    "image": "/productclean/slide_51.png",
     "isFarm": false
   },
   {
@@ -1015,7 +1015,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3022,
     "stock": 100,
-    "image": "/products/slide_52.png",
+    "image": "/productclean/slide_52.png",
     "isFarm": false
   },
   {
@@ -1036,7 +1036,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2510,
     "stock": 100,
-    "image": "/products/slide_53.png",
+    "image": "/productclean/slide_53.png",
     "isFarm": false
   },
   {
@@ -1056,7 +1056,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2105,
     "stock": 100,
-    "image": "/products/slide_54.png",
+    "image": "/productclean/slide_54.png",
     "isFarm": false
   },
   {
@@ -1077,7 +1077,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4848,
     "stock": 100,
-    "image": "/products/slide_55.png",
+    "image": "/productclean/slide_55.png",
     "isFarm": false
   },
   {
@@ -1097,7 +1097,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3657,
     "stock": 100,
-    "image": "/products/slide_56.png",
+    "image": "/productclean/slide_56.png",
     "isFarm": false
   },
   {
@@ -1117,7 +1117,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1705,
     "stock": 100,
-    "image": "/products/slide_57.png",
+    "image": "/productclean/slide_57.png",
     "isFarm": false
   },
   {
@@ -1136,7 +1136,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2669,
     "stock": 100,
-    "image": "/products/slide_58.png",
+    "image": "/productclean/slide_58.png",
     "isFarm": false
   },
   {
@@ -1155,7 +1155,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4010,
     "stock": 100,
-    "image": "/products/slide_59.png",
+    "image": "/productclean/slide_59.png",
     "isFarm": false
   },
   {
@@ -1175,7 +1175,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1830,
     "stock": 100,
-    "image": "/products/slide_60.png",
+    "image": "/productclean/slide_60.png",
     "isFarm": false
   },
   {
@@ -1194,7 +1194,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1574,
     "stock": 100,
-    "image": "/products/slide_61.png",
+    "image": "/productclean/slide_61.png",
     "isFarm": false
   },
   {
@@ -1215,7 +1215,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1656,
     "stock": 100,
-    "image": "/products/slide_62.png",
+    "image": "/productclean/slide_62.png",
     "isFarm": false
   },
   {
@@ -1236,7 +1236,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1922,
     "stock": 100,
-    "image": "/products/slide_63.png",
+    "image": "/productclean/slide_63.png",
     "isFarm": false
   },
   {
@@ -1257,7 +1257,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 1806,
     "stock": 100,
-    "image": "/products/slide_64.png",
+    "image": "/productclean/slide_64.png",
     "isFarm": false
   },
   {
@@ -1278,7 +1278,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2929,
     "stock": 100,
-    "image": "/products/slide_65.png",
+    "image": "/productclean/slide_65.png",
     "isFarm": false
   },
   {
@@ -1299,7 +1299,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4553,
     "stock": 100,
-    "image": "/products/slide_66.png",
+    "image": "/productclean/slide_66.png",
     "isFarm": false
   },
   {
@@ -1320,7 +1320,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4737,
     "stock": 100,
-    "image": "/products/slide_67.png",
+    "image": "/productclean/slide_67.png",
     "isFarm": false
   },
   {
@@ -1338,7 +1338,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2215,
     "stock": 100,
-    "image": "/products/slide_68.png",
+    "image": "/productclean/slide_68.png",
     "isFarm": false
   },
   {
@@ -1358,7 +1358,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 4824,
     "stock": 100,
-    "image": "/products/slide_69.png",
+    "image": "/productclean/slide_69.png",
     "isFarm": false
   },
   {
@@ -1378,7 +1378,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3263,
     "stock": 100,
-    "image": "/products/slide_70.png",
+    "image": "/productclean/slide_70.png",
     "isFarm": false
   },
   {
@@ -1397,7 +1397,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2221,
     "stock": 100,
-    "image": "/products/slide_71.png",
+    "image": "/productclean/slide_71.png",
     "isFarm": false
   },
   {
@@ -1415,7 +1415,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 3444,
     "stock": 100,
-    "image": "/products/slide_72.png",
+    "image": "/productclean/slide_72.png",
     "isFarm": false
   },
   {
@@ -1434,7 +1434,7 @@ export const products: Product[] = [
     "usage": "1-2 sachet(s) each day",
     "price": 4440,
     "stock": 100,
-    "image": "/products/slide_8.png",
+    "image": "/productclean/slide_8.png",
     "isFarm": false
   },
   {
@@ -1453,7 +1453,7 @@ export const products: Product[] = [
     "usage": "1-2 sachets daily",
     "price": 2737,
     "stock": 100,
-    "image": "/products/slide_9.png",
+    "image": "/productclean/slide_9.png",
     "isFarm": false
   }
 ];

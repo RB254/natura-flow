@@ -101,7 +101,7 @@ const Admin = () => {
       price: Number(formData.get("price")),
       stock: Number(formData.get("stock")),
       description: formData.get("description"),
-      image: editingProduct?.image || "/products/slide_1.png",
+      image: editingProduct?.image || "/productclean/slide_1.png",
       benefits: editingProduct?.benefits || ["Natural health support"],
       ingredients: ["Natural Herbal Extract"],
       usage: "1-2 sachets daily",

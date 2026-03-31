@@ -20,12 +20,12 @@ const heroSlides = [
     subtitle: "Trusted nutraceutical solutions for your health journey",
   },
   {
-    image: "/products/slide_4.png",
+    image: "/productclean/slide_4.png",
     title: "Nutraceutical Science Meets Nature",
     subtitle: "Traditional Chinese Medicine principles combined with modern research",
   },
   {
-    image: "/products/slide_10.png",
+    image: "/productclean/slide_10.png",
     title: "Supporting Healthy Living Globally",
     subtitle: "Premium organic fertilizer for sustainable farming and higher yields",
   },
@@ -155,7 +155,7 @@ const Index = () => {
               </Link>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-xl">
-              <img src="/products/slide_1.png" alt="Green World International" className="w-full h-auto object-cover" />
+              <img src="/productclean/slide_1.png" alt="Green World International" className="w-full h-auto object-cover" />
             </div>
           </div>
         </div>

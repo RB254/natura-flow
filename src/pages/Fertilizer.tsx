@@ -41,7 +41,7 @@ const farmerTestimonials = [
 
 const Fertilizer = () => {
   const neutricPlant = products.find((p) => p.id === "p13");
-  const certificateImage = "/products/Neutrica fertilizer licence or certificate.png";
+  const certificateImage = "/productclean/Neutrica fertilizer licence or certificate.png";
   const { addItem } = useCart();
 
   const handleAddToCart = () => {

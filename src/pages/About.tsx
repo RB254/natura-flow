@@ -8,7 +8,7 @@ const certifications = [
   { name: "HACCP System Certification", type: "Food Safety Standard", image: "/certificates/certificate_103.png" },
   { name: "Halal Product Certificate", type: "Dietary Compliance", image: "/certificates/certificate_104.png" },
   { name: "ISO 9001:2015 Quality Management", type: "Quality Standard", image: "/certificates/certificate_105.png" },
-  { name: "KEPHIS Fertilizer Commercialization Permit", type: "Agricultural Certification", image: "/products/Neutrica fertilizer licence or certificate.png" },
+  { name: "KEPHIS Fertilizer Commercialization Permit", type: "Agricultural Certification", image: "/productclean/Neutrica fertilizer licence or certificate.png" },
 ];
 
 const milestones = [
